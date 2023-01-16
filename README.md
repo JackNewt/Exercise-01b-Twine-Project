@@ -101,7 +101,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 
 The final state of the file should be as follows (replacing my information with yours):
 ```
-# Exercise-01b-Twine-Project
+# Elijah Brown
 
 Exercise for MSCH-C220
 
@@ -117,5 +117,5 @@ Built using Twine 2.6.0
 None
 
 ## Created by 
-Jason Francis
+Elijah Brown
 ```
